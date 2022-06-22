@@ -11,3 +11,6 @@ To compare each method, the F1 metric will be used to evaluate the predictions, 
 
 In the end of the project, I also attempt to cluster the customers by taking into account specific variables about them.
 I used  pam() functon with the matrix of Gower Distance to create the clusters and I evaluate the clusters' quality by plotting the silhouette value.
+
+
+Dataset can be found here: https://www.kaggle.com/datasets/pankajbhowmik/bank-marketing-campaign-subscriptions
