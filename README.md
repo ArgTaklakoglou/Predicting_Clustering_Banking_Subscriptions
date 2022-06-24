@@ -9,7 +9,7 @@ Random Forest Classification
 
 To compare each method, the F1 metric will be used to evaluate the predictions, and the method with the highest F1 score will be chosen.
 
-In the end of the project, I also attempt to cluster the customers by taking into account specific variables about them.
+At the end of the project, I also attempt to cluster the customers by taking into account specific variables about them.
 I used  pam() functon with the matrix of Gower Distance to create the clusters and I evaluate the clusters' quality by plotting the silhouette value.
 
 
