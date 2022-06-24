@@ -1,6 +1,6 @@
 # Predicting_Clustering_Banking_Subscriptions
 
-In this project, I used a dataset containing bank customers’ data which was collected through phone calls. The data includes various variables about each customer and whether they Subscribed to a bank’s service or not. The dataset consist of around 38.000 records. The aim of this project is to try 4 different classification methods in order to predict whether a customer will subscribe or not, taking into consideration the data about them.
+In this project, I used a dataset containing bank customers’ data which was collected through phone calls. The data includes various variables about each customer and whether they Subscribed to a bank’s service or not. The dataset consist of around 38.000 records. The aim of this project is to try 3 different classification methods in order to predict whether a customer will subscribe or not, taking into consideration the data about them.
 The classification methods I used are the following:
 
 Naïve Bayes Classifier
